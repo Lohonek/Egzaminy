@@ -1,0 +1,40 @@
+.left {
+  width: 40%;
+  height: 600px;
+  background-color: #ff8989;
+}
+
+.right {
+  width: 60%;
+  height: 600px;
+  background-color: #7872d9;
+}
+
+.footer {
+  background-color: black;
+  color: white;
+  text-align: right;
+}
+
+table,
+td {
+  margin: 20px;
+  padding: 30px;
+  border: 2px solid brown;
+}
+
+button {
+  margin: 10px;
+  padding: 10px;
+  border: 2px blue;
+  background-color: cyan;
+  font-size: 20px;
+}
+
+h1 {
+  text-align: center;
+}
+
+main {
+  display: flex;
+}

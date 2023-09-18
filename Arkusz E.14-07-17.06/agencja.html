@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Kup mieszkanie</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <main>
+      <div class="left">
+        <h1>AGENCJA NIERUCHOMOŚCI</h1>
+        <h3>OFERUJEMY</h3>
+        <ol>
+          <li>Nowe mieszkania</li>
+          <li>Domy w naszym mieście</li>
+          <li>Domy w okolicy</li>
+        </ol>
+        <h3>NASI PRACOWNICY</h3>
+
+        <table border="1">
+          <thead>
+            <tr>
+              <td rowspan="3">Jan Nowak Prezes</td>
+              <td>Anna Kowalska</td>
+            </tr>
+            <tr>
+              <td>Katarzyna Nowakowska</td>
+            </tr>
+            <tr>
+              <td>Krzysztof Kowalewski</td>
+            </tr>
+          </thead>
+        </table>
+      </div>
+      <div class="right">
+        <h1>KALKULATOR CENY MIESZKANIA</h1>
+
+        Podaj metraż mieszkania w m<sup>2</sup> <br />
+        <input type="number" id="pow" /> <br /><br />
+        Liczba pokoi z zamontowanym okablowaniem sieciowym <br />
+        <input type="number" id="pok" /> <br /><br />
+
+        <input type="checkbox" id="laz" />Kafelki w łazience <br /><br />
+
+        <button id="btn">OBLICZ</button>
+
+        <p id="wynik"></p>
+      </div>
+    </main>
+    <div class="footer">
+      <span>Autor strony: nyku</span>
+      <img src="a1.png" alt="nieruchomości" />
+    </div>
+    <script src="app.js"></script>
+  </body>
+</html>
