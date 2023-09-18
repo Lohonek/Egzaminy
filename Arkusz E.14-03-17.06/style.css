@@ -1,0 +1,46 @@
+.banner {
+  background-color: rgb(105, 88, 89);
+  color: white;
+  font-size: 150%;
+  text-align: center;
+  height: 80px;
+}
+.left {
+  background-color: rgb(145, 127, 112);
+  width: 30%;
+  height: 600px;
+}
+
+.mid {
+  background-color: rgb(184, 168, 169);
+  width: 50%;
+  height: 600px;
+}
+
+.right {
+  background-color: rgb(145, 127, 112);
+  width: 20%;
+  height: 600px;
+}
+
+main {
+  display: flex;
+}
+
+h2 {
+  color: white;
+}
+
+table,
+td {
+  border: 1px solid black;
+}
+
+.box {
+  display: flex;
+}
+
+img {
+  width: 150px;
+  height: 90px;
+}

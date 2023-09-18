@@ -74,7 +74,7 @@
         </div>
     </main>
     <div class="footer">
-        utworzone przez: 123123312 <br>
+        utworzone przez: nyku <br>
         <a href="">Pobierz plik z kwerendami</a>
     </div>
 </body>
