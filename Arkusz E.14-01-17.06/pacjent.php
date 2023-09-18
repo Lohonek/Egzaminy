@@ -5,6 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
+    <link rel="stylesheet" href="style.css">
 </head>
 
 <body>
@@ -76,46 +77,6 @@
         utworzone przez: 123123312 <br>
         <a href="">Pobierz plik z kwerendami</a>
     </div>
-    <style>
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-        }
-
-        .banner {
-            background-color: rgb(66, 22, 42);
-            color: white;
-            font-size: 140%;
-            text-align: center;
-            height: 100px;
-        }
-
-        .left {
-            background-color: rgb(142, 115, 110);
-            width: 30%;
-            height: 600px;
-            color: white;
-        }
-
-        main {
-            display: flex;
-        }
-
-        .right {
-            background-color: rgb(230, 230, 230);
-            width: 70%;
-            height: 600px;
-            font-size: 120%;
-        }
-
-        .footer {
-            background-color: rgb(142, 115, 110);
-            color: white;
-            text-align: right;
-            height: 100px;
-        }
-    </style>
 </body>
 
 </html>
