@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Remonty mieszkań</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="menu">
+      <div class="logo blok">
+        <img src="b1.png" alt="" />
+      </div>
+      <div class="firma blok">
+        <a href="index.html">O FIRMIE</a>
+      </div>
+      <div class="adres blok">
+        <a href="adres.html">ADRES</a>
+      </div>
+      <div class="policz blok">
+        <a href="policz.html">POLICZ</a>
+      </div>
+      <div class="linki blok">
+        <a href="http://www.jakremontowac.pl/" target="_blank">LINKI</a>
+      </div>
+    </div>
+    <main>
+      <h1>Kafelkowanie łazienki</h1>
+      <p>powierzchnia w m2</p>
+      <input type="number" id="pow" /><br />
+      Płytki 20 x 20<input
+        type="radio"
+        name="plytki"
+        value="kwa"
+        id="kwa"
+        class="plytka"
+      />
+      Płytki 25 x 12<input
+        type="radio"
+        name="plytki"
+        value="pro"
+        id="pro"
+        class="plytka"
+      />
+      <button id="btn">PRZELICZ</button>
+
+      <p id="wynik"></p>
+    </main>
+    <div class="footer">
+      <p>Autor strony: nyku</p>
+    </div>
+    <script src="app.js"></script>
+  </body>
+</html>
