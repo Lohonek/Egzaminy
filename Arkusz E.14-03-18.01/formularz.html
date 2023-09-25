@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Dodaj ogloszenie</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="banner">
+      <h2>Portal Ogłoszeniowy</h2>
+    </div>
+    <main>
+      <div class="left">
+        <h2>Kategoria</h2>
+        <ol>
+          <li>Książki</li>
+          <li>Muzyka</li>
+          <li>Filmy</li>
+        </ol>
+        <h2>Podkategorie</h2>
+        <ol>
+          <li>Romans</li>
+          <li>Biografia</li>
+          <li>Kryminał</li>
+          <li>Komiks</li>
+        </ol>
+        <img src="ksiazki.jpg" alt="Dodaj ogłoszenie" /><br />
+        <a href="kwerendy.txt">Pobierz kwerendy</a>
+      </div>
+      <div class="right">
+        <h2>Anna Kowalska – dodanie ogłoszenia</h2>
+        <form method="post" action="dodajRekord.php">
+          Kategoria: <br />
+          <input type="number" id="kat" name="kat" /><br />
+          Podkategoria <br />
+          <input type="number" id="podk" name="podk" /> <br />
+          Tytuł: <br />
+          <input type="text" id="tyt" name="tyt" /> <br />
+          Treść: <br />
+          <textarea id="tresc" cols="30" rows="10" name="tresc"></textarea>
+          <br />
+          <input type="reset" value="WYCZYSC" class="btn" />
+          <input type="submit" value="ZAPISZ" class="btn" />
+        </form>
+      </div>
+    </main>
+    <div class="footer">Portal ogłoszeniowy opracował: nyku</div>
+  </body>
+</html>

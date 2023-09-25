@@ -1,0 +1,51 @@
+.banner {
+  background-color: #00839c;
+  color: white;
+  font-family: Tahoma;
+  text-align: center;
+  height: 80px;
+}
+
+.left {
+  background-color: #20d9fb;
+  width: 30%;
+  height: 750px;
+}
+
+.right {
+  background-color: #00bde2;
+  width: 70%;
+  height: 750px;
+}
+
+.footer {
+  background-color: #00839c;
+  color: white;
+  text-align: right;
+}
+
+img {
+  padding: 30px;
+  border: 2px solid blue;
+  width: 190px;
+  height: 285px;
+}
+
+a {
+  color: black;
+}
+
+a:visited {
+  color: white;
+}
+
+.btn {
+  background-color: blue;
+  color: white;
+  border: none;
+  margin: 20px;
+}
+
+main {
+  display: flex;
+}
