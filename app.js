@@ -7,9 +7,9 @@ function oblicz(){
     const wynik = document.querySelector('#wynik')
     const wpow = document.querySelector('#wpow')
 
-    const wartoscx = document.querySelector('#wartoscx').value
-    const wartoscy = document.querySelector('#wartoscy').value
-    const pow = wartoscx * wartoscy;
+    const x = document.querySelector('#x').value
+    const y = document.querySelector('#y').value
+    const pow = (x * 2 * 2.7) + (y * 2 * 2.7);
     const cena = pow * 8;
 
     wpow.innerHTML = 'Powierzchnia calkowita scian: ' + pow + 'm2';
