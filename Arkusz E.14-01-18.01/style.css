@@ -1,0 +1,44 @@
+.banner {
+  background-color: #40271a;
+  color: white;
+  font-family: Tahoma;
+  text-align: center;
+  height: 80px;
+}
+
+.left {
+  background-color: #dbb29c;
+  width: 40%;
+  height: 700px;
+}
+
+.right {
+  background-color: #ffe3d4;
+  width: 60%;
+  height: 700px;
+}
+.footer {
+  background-color: #40271a;
+  color: white;
+  text-align: right;
+}
+
+table {
+  border: 1px dashed brown;
+  width: 500px;
+
+  text-align: center;
+}
+
+td,
+th {
+  border: 1px dashed brown;
+}
+
+ol {
+  list-style-type: upper-roman;
+}
+
+main {
+  display: flex;
+}
