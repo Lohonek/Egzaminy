@@ -1,0 +1,54 @@
+.banner {
+  background-color: #1c59a7;
+  color: white;
+  text-align: center;
+  height: 100px;
+}
+
+.left {
+  background-color: #3a70b5;
+  width: 33%;
+  height: 200px;
+}
+
+.mid {
+  background-color: #5a8ac8;
+  width: 33%;
+  height: 200px;
+}
+
+.right {
+  background-color: #86acdd;
+  text-align: center;
+  width: 34%;
+  height: 200px;
+}
+
+.bot {
+  background-color: #86acdd;
+  text-align: center;
+  height: 300px;
+}
+
+.footer {
+  background-color: #1c59a7;
+  color: white;
+}
+
+#regulamin {
+  background-color: yellow;
+  color: blue;
+  padding: 10px;
+}
+
+main {
+  display: flex;
+}
+
+img {
+  height: 80px;
+}
+
+h2 {
+  margin: 0px;
+}
