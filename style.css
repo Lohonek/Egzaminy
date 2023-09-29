@@ -1,0 +1,61 @@
+.banner{
+    background-color: #009999;
+    color: white;
+    text-align: center;
+    height: 80px;
+}
+
+.info{
+    font-family: Arial;
+    background-color: #009999;
+    color: white;
+    text-align: center;
+    display: flex;
+}
+
+.blok{
+    width: 25%;
+    height: 150px;
+}
+
+.left, 
+.right{
+ background-color: #669999;
+ width: 30%;
+ height: 600px;
+}
+
+.footer{
+    background-color: #009999;
+    color: white;
+    text-align: right;
+}
+
+table,
+td{
+    border: 1px solid green;
+    text-align: center;
+}
+
+.btn{
+    border: none;
+    margin: 10px;
+    background-color: green;
+    color: white;
+}
+
+.mid{
+    width: 40%;
+    text-align: center;
+    background-color: #99CCCC;
+    height: 600px;
+}
+
+main{
+    display: flex;
+}
+
+#male{
+    width: 100px;
+    height: 100px;
+}
