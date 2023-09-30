@@ -1,0 +1,65 @@
+body {
+  font-family: Georgia;
+}
+
+.banner {
+  background-color: #824555;
+  color: white;
+  text-align: center;
+  padding: 20px;
+}
+
+.left,
+.mid {
+  background-color: #a26475;
+  color: white;
+  width: 30%;
+  height: 300px;
+}
+
+.right {
+  background-color: #a26475;
+  color: white;
+  width: 40%;
+  height: 300px;
+  text-align: right;
+}
+
+.main {
+  background-color: #f0eae2;
+  padding: 50px;
+}
+
+.footer {
+  background-color: #824555;
+  color: white;
+  text-align: center;
+  padding: 20px;
+}
+
+table,
+td {
+  border: 2px solid #69293a;
+  padding: 7px;
+  border-collapse: collapse;
+}
+
+main {
+  display: flex;
+}
+
+ul {
+  list-style-type: square;
+}
+
+#red {
+  background-color: red;
+}
+
+#green {
+  background-color: green;
+}
+
+#blue {
+  background-color: blue;
+}

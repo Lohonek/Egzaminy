@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Formatowanie</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="banner"><h1>Formatowanie dokumentów HTML</h1></div>
+    <main>
+      <div class="left">
+        <h2>Przykład listy - hobby</h2>
+        <ul>
+          <li>muzyka</li>
+          <li>
+            turystyka
+            <ol>
+              <li>góry</li>
+              <li>jeziora</li>
+              <li>na rowerze</li>
+            </ol>
+          </li>
+          <li>ksiązki</li>
+        </ul>
+      </div>
+      <div class="mid">
+        <h2>Przykład tabeli - rozkład dnia</h2>
+        <table>
+          <tr>
+            <td><b>Pora dnia</b></td>
+            <td><b>obowiązki</b></td>
+          </tr>
+          <tr>
+            <td>rano</td>
+            <td>nauka</td>
+          </tr>
+          <tr>
+            <td>południe</td>
+            <td>zajęcia dodatkowe</td>
+          </tr>
+          <tr>
+            <td>popołudnie</td>
+            <td rowspan="2">moje hobby</td>
+          </tr>
+          <tr>
+            <td>wiećzor</td>
+          </tr>
+        </table>
+      </div>
+      <div class="right">
+        <h3><img src="img.jpg" alt="technologia web" /></h3>
+      </div>
+    </main>
+    <div class="main">
+      <p>Podaj rozmiar tekstu w procentach:</p>
+      <input type="number" id="rozmiar" /> % <br /><br />
+
+      <select name="" id="wybor">
+        <option value="prosty" id="prosty">prosty</option>
+        <option value="kursywa" id="kursywa">kursywa</option>
+      </select>
+      <p>Jakim kolorem sformwatowac tekst? Wybierz przycisk</p>
+      <button id="red">x</button>
+      <button id="green">x</button>
+      <button id="blue">x</button>
+      <p id="wynik">
+        To jest przykład paragrafu, który może być dowolnie formatowany przez
+        Java Script
+      </p>
+    </div>
+    <div class="footer">
+      <p>Formatowaniem tekstu zajmował się: nyku</p>
+      <a href="formatowanie.pl" target="_blank">Odwiedź także</a>
+    </div>
+    <script src="app.js"></script>
+  </body>
+</html>
