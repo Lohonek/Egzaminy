@@ -1,0 +1,53 @@
+.banner {
+  background-color: #e8c84e;
+  height: 50px;
+  font-size: 130%;
+  text-align: center;
+}
+
+.left {
+  background-color: #ffb544;
+  height: 500px;
+  width: 40%;
+  font-size: 130%;
+}
+
+.mid {
+  height: 500px;
+  width: 30%;
+  text-align: center;
+}
+
+.right {
+  background-color: #ffb544;
+  width: 30%;
+  height: 500px;
+  font-size: 130%;
+  text-align: center;
+}
+
+.footer {
+  background-color: #e8c84e;
+  height: 50px;
+  text-align: right;
+  padding: 10px;
+}
+
+ul,
+li {
+  padding-top: 30px;
+  background-color: #ffaa00;
+}
+
+img,
+h3 {
+  padding-top: 50ppx;
+}
+
+form {
+  margin-bottom: 100px;
+}
+
+main {
+  display: flex;
+}
