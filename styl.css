@@ -1,0 +1,59 @@
+body{
+    font-family: Verdana;
+    font-size: 7px;
+
+}
+
+a{
+    color: brown;
+}
+
+header,
+footer,
+.left,
+.right{
+    background-color: #ffb31c;
+}
+
+.mid{
+    background-color: #ffcb71;
+    width: 60%;
+    height: 480px;
+    overflow: scroll;
+}
+
+header,
+footer{
+    text-align: center;
+}
+
+.right{
+    text-align: right;
+}
+
+main{
+    display: flex;
+}
+
+.left,
+.right{
+    width: 20%;
+    height: 480px;
+}
+
+
+header{
+    height: 60px;
+}
+
+footer{
+    height: 30px;
+}
+
+ul{
+    list-style-type: square;
+}
+
+td,table{
+    border: 1px solid black;
+}
