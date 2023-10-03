@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Szkola ponadpodstawowa</title>
+    <link rel="stylesheet" href="styl.css" />
+  </head>
+  <body>
+    <header>
+      <h2>Projekt strony internetowej szkoły ponadgimnazjalnej</h2>
+    </header>
+    <main>
+      <div class="left">
+        <h3>Do pobrania</h3>
+        <ul>
+          <li><a href="zapytania.txt">Zapytania SQL</a></li>
+          <li><a href="szkola.sql">baza danych</a></li>
+        </ul>
+      </div>
+
+      <div class="mid">
+        <table>
+          <tr>
+            <td><h3>Tresc zapytania</h3></td>
+            <td style="width: 400px"><h3>Zrzut ekranu</h3></td>
+          </tr>
+          <tr>
+            <td>
+              <h3>NSERT INTO uczen VALUES('27', 'Jasny', 'Wiktoria','1')</h3>
+              I
+            </td>
+            <td style="width: 400px"><img src="kwe1.png" alt="" /></td>
+          </tr>
+          <tr>
+            <td>
+              <h3>
+                SELECT wychowawca.imie, wychowawca.nazwisko FROM wychowawca,
+                uczen WHERE wychowawca.id klasy=uczen.id klasy and
+                uczen.nazwisko='Markiewicz'
+              </h3>
+            </td>
+            <td style="width: 400px"><img src="kwe2.png" alt="" /></td>
+          </tr>
+          <tr>
+            <td>
+              <h3>
+                CREATE USER 'Jan Bogucki'@'localłiost' IDENTIFIED BY 'jb 123'
+              </h3>
+            </td>
+            <td style="width: 400px"><img src="kwe3.png" alt="" /></td>
+          </tr>
+          <tr>
+            <td>
+              <h3>
+                GRANT SELECT, INSERT, DELETE ON szkola.uczen TO 'Jan
+                Bogucki'@'localhost'
+              </h3>
+            </td>
+            <td style="width: 400px"><img src="kwe4.png" alt="" /></td>
+          </tr>
+        </table>
+      </div>
+      <div class="right">
+        <h4>Obliczanie sredniej ocen</h4>
+        <ul>
+          <li>Polak <input type="text" id="pierwszy" /></li>
+          <li>Nowak <input type="text" id="drugi" /></li>
+          <li>Rysik <input type="text" id="trzeci" /></li>
+
+          <button id="btn">oblicz</button>
+
+          <h4 id="wynik">Średnia ocen:</h4>
+        </ul>
+      </div>
+    </main>
+    <footer>Autor strony: 123123123123</footer>
+    <script src="app.js"></script>
+  </body>
+</html>
