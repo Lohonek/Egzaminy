@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Usługi informatyczne</title>
+    <link rel="stylesheet" href="styl.css" />
+  </head>
+  <body>
+    <div class="box">
+      <div id="info">
+        <div class="hleft"><img src="logo.png" alt="logo firmy" /></div>
+        <div class="hright">
+          <a href="index.html" class="link">nas</a>
+          <a href="uslugi.html" class="link">Uslugi</a>
+          <a href="kontakt.html" class="link">Kontakt</a>
+        </div>
+      </div>
+      <header><img src="animacja.gif" alt="" /></header>
+      <main>
+        <hr />
+        <h2>Kontakt</h2>
+        <table>
+          <tr>
+            <td>Imię:</td>
+            <td><input type="text" id="imie" /></td>
+          </tr>
+          <tr>
+            <td>Nazwisko:</td>
+            <td><input type="text" id="nazwisko" /></td>
+          </tr>
+          <tr>
+            <td>E-mail:</td>
+            <td><input type="email" id="email" /></td>
+          </tr>
+          <tr>
+            <td>Usługa</td>
+            <td><textarea id="usluga" cols="30" rows="10"></textarea></td>
+          </tr>
+          <tr>
+            <td></td>
+            <td>
+              <input type="checkbox" id="check" />Zapoznałam/em się z
+              regulaminem
+            </td>
+          </tr>
+          <tr>
+            <td></td>
+            <td><input type="submit" id="btn" /> <input type="reset" /></td>
+          </tr>
+        </table>
+        <p id="wynik"></p>
+        <hr />
+      </main>
+      <footer>
+        <p>Autor Strony: <b>nyku</b></p>
+      </footer>
+    </div>
+    <script src="app.js"></script>
+  </body>
+</html>
