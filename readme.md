@@ -1,4 +1,4 @@
-# Rozwiązania do arkuszy egzaminacyjnych (EE09, E14)
+# Rozwiązania do arkuszy egzaminacyjnych E14
 
 ### 2017
 
