@@ -2,7 +2,7 @@
 
 ### 2017
 
-| First Header                                                         | Second Header                                                                                                                |
+| Oznaczenie                                                           | Pobierz Pliki                                                                                                                |
 | -------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
 | Przychodnia [Arkusz E.14-01-17.06](/Arkusz-E.14-01-17.06/)           | [Pobierz](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Lohonek/szkola/tree/main/Arkusz-E.14-01-17.06) |
 | Gabinet Weterynaryjny [Arkusz E.14-03-17.06](/Arkusz-E.14-03-17.06/) | [Pobierz](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Lohonek/szkola/tree/main/Arkusz-E.14-03-17.06) |
@@ -12,7 +12,7 @@
 
 ### 2018
 
-| First Header                                                           | Second Header                                                                                                                |
+| Oznaczenie                                                             | Pobierz Pliki                                                                                                                |
 | ---------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
 | Portal Ogłoszeniowy [Arkusz E.14-01-18.01](/Arkusz-E.14-01-18.01/)     | [Pobierz](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Lohonek/szkola/tree/main/Arkusz-E.14-01-18.01) |
 | Portal Ogłoszeniowy [Arkusz E.14-03-18.01](/Arkusz-E.14-03-18.01/)     | [Pobierz](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Lohonek/szkola/tree/main/Arkusz-E.14-03-18.01) |
@@ -23,7 +23,7 @@
 
 ### 2019
 
-| First Header                                                                | Second Header                                                                                                                |
+| Oznaczenie                                                                  | Pobierz Pliki                                                                                                                |
 | --------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
 | Formatowanie Dokumentów HTML [Arkusz E.14-02-19.01](/Arkusz-E.14-02-19.01/) | [Pobierz](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Lohonek/szkola/tree/main/Arkusz-E.14-02-19.01) |
 | Hurtownia Kawy [Arkusz E.14-04-19.01](/Arkusz-E.14-04-19.01/)               | [Pobierz](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Lohonek/szkola/tree/main/Arkusz-E.14-04-19.01) |
@@ -33,7 +33,7 @@
 
 ### 2020
 
-| First Header                                                          | Second Header                                                                                                                |
+| Oznaczenie                                                            | Pobierz Pliki                                                                                                                |
 | --------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
 | Podzespoły Komputerowe [Arkusz E.14-01-20.01](/Arkusz-E.14-01-20.01/) | [Pobierz](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Lohonek/szkola/tree/main/Arkusz-E.14-01-20.01) |
 | Fabryka Żelków [Arkusz E.14-02-20.01](/Arkusz-E.14-02-20.01/)         | [Pobierz](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Lohonek/szkola/tree/main/Arkusz-E.14-02-20.01) |
