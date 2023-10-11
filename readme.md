@@ -33,6 +33,8 @@
 
 ### 2020
 
-- Podzespoły Komputerowe [Arkusz E.14-01-20.01](/Arkusz-E.14-01-20.01/) | [Pobierz](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Lohonek/szkola/tree/main/Arkusz-E.14-01-20.01)
-- Fabryka Żelków [Arkusz E.14-02-20.01](/Arkusz-E.14-02-20.01/) | [Pobierz](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Lohonek/szkola/tree/main/Arkusz-E.14-02-20.01)
-- Koszty Farby [Arkusz E.14-01-20.06](/Arkusz-E.14-01-20.06/) | [Pobierz](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Lohonek/szkola/tree/main/Arkusz-E.14-01-20.06)
+| First Header                                                          | Second Header                                                                                                                |
+| --------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| Podzespoły Komputerowe [Arkusz E.14-01-20.01](/Arkusz-E.14-01-20.01/) | [Pobierz](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Lohonek/szkola/tree/main/Arkusz-E.14-01-20.01) |
+| Fabryka Żelków [Arkusz E.14-02-20.01](/Arkusz-E.14-02-20.01/)         | [Pobierz](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Lohonek/szkola/tree/main/Arkusz-E.14-02-20.01) |
+| Koszty Farby [Arkusz E.14-01-20.06](/Arkusz-E.14-01-20.06/)           | [Pobierz](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Lohonek/szkola/tree/main/Arkusz-E.14-01-20.06) |
