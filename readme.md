@@ -1,6 +1,6 @@
 # Rozwiązania do arkuszy egzaminacyjnych E14
 
-### 2017
+<center> ## 2017 </center>
 
 | Oznaczenie                                                           | Pliki                                                                                                                        |
 | -------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
@@ -10,7 +10,7 @@
 | Remonty Mieszkań [Arkusz E.14-06-17.06](/Arkusz-E.14-06-17.06/)      | [Pobierz](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Lohonek/szkola/tree/main/Arkusz-E.14-06-17.06) |
 | Agencja Nieruchomości [Arkusz E.14-07-17.06](/Arkusz-E.14-07-17.06/) | [Pobierz](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Lohonek/szkola/tree/main/Arkusz-E.14-07-17.06) |
 
-### 2018
+## 2018
 
 | Oznaczenie                                                             | Pliki                                                                                                                        |
 | ---------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
@@ -21,7 +21,7 @@
 | Dom Weselny [Arkusz E.14-05-18.06](/Arkusz-E.14-05-18.06/)             | [Pobierz](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Lohonek/szkola/tree/main/Arkusz-E.14-05-18.06) |
 | Pizzeria [Arkusz E.14-06-18.06](/Arkusz-E.14-06-18.06/)                | [Pobierz](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Lohonek/szkola/tree/main/Arkusz-E.14-06-18.06) |
 
-### 2019
+## 2019
 
 | Oznaczenie                                                                  | Pliki                                                                                                                        |
 | --------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
@@ -31,7 +31,7 @@
 | Miejska Biblioteka [Arkusz E.14-04-19.06](/Arkusz-E.14-04-19.06/)           | [Pobierz](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Lohonek/szkola/tree/main/Arkusz-E.14-04-19.06) |
 | Usługi Informatyczne [Arkusz E.14-05-19.06](/Arkusz-E.14-05-19.06/)         | [Pobierz](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Lohonek/szkola/tree/main/Arkusz-E.14-05-19.06) |
 
-### 2020
+## 2020
 
 | Oznaczenie                                                            | Pliki                                                                                                                        |
 | --------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
