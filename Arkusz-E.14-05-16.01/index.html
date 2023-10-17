@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <link rel="stylesheet" type="text/css" href="style.css" />
+    <title>Stacja Meteo</title>
+  </head>
+  <body>
+    <div id="baner">
+      <h1>STACJA METEO</h1>
+    </div>
+    <div id="panel_lewy">
+      <h2>Dokumentacja wyników zapytań w bazie Meteo</h2>
+      <table>
+        <tr>
+          <th><img src="kw1.jpg" border="1" alt="kwerenda1" /></th>
+          <th><img src="kw2.jpg" border="1" alt="kwerenda2" /></th>
+        </tr>
+        <tr>
+          <th><img src="kw3.jpg" border="1" alt="kwerenda3" /></th>
+          <th><img src="kw4.jpg" border="1" alt="kwerenda4" /></th>
+        </tr>
+      </table>
+    </div>
+    <div id="panel_prawy">
+      <h2>zamiana jednostek temperatury</h2>
+      <label for="temp">temperatura w <sup>o</sup>C:</label>
+      <input type="text" id="temp" /> <br /><br />
+      <input type="submit" value="Kelwiny" id="btnk" />
+      <input type="submit" value="Fakrenheity" id="btnf" />
+      <br /><br />
+      <p id="res"></p>
+      <h2>Do pobrania</h2>
+      <ul>
+        <li><a href="kwerendy.txt">Kwerendy</a></li>
+        <li><a href="meteo.sql">Eksport MySQL</a></li>
+      </ul>
+    </div>
+    <div id="stopka">
+      <p>PESEL AUTORA STRONY: nyku</p>
+    </div>
+    <script src="app.js"></script>
+  </body>
+</html>

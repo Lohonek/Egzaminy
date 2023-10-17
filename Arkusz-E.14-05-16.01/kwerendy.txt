@@ -1,0 +1,7 @@
+A) INSERT INTO `lokalizacja` (`id`, `Nazwa`, `Adres`) VALUES ('3', 'KAT1', 'Katowice, Korfantego 105');
+
+B) SELECT `pogoda`.`id` FROM `pogoda` WHERE `pogoda`.`temperatura` >= 20;
+
+C) SELECT `prognoza`.`Lokalizacja_id`, `prognoza`.`dataProg` FROM `prognoza` INNER JOIN `pogoda` ON `prognoza`.`pogoda_id`=`pogoda`.`id` WHERE `pogoda`.`Wilgotnosc` > 50;
+
+D) SELECT `lokalizacja`.`Nazwa`, `prognoza`.`Pogoda_id` FROM `lokalizacja` INNER JOIN `prognoza` ON `lokalizacja`.`id`=`prognoza`.`Lokalizacja_id` WHERE `prognoza`.`dataProg` LIKE "2015-07-02"; 
