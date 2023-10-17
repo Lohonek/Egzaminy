@@ -1,5 +1,12 @@
 # Rozwiązania do arkuszy egzaminacyjnych E14
 
+## 2016
+
+| Oznaczenie                                                           | Pliki                                                                                                                        |
+| -------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| Przychodnia [Arkusz E.14-01-16.01](/Arkusz-E.14-01-16.01)            | [Pobierz](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Lohonek/szkola/tree/main/Arkusz-E.14-01-16.01) |
+| Gabinet Weterynaryjny [Arkusz-E.14-05-16.01](/Arkusz-E.14-05-16.01/) | [Pobierz](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/Lohonek/szkola/tree/main/Arkusz-E.14-05-17.01) |
+
 ## 2017
 
 | Oznaczenie                                                           | Pliki                                                                                                                        |
