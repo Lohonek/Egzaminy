@@ -1,0 +1,11 @@
+kwe1:
+    SELECT COUNT(id) AS ilość FROM `sportowiec`;
+
+kwe2: 
+    SELECT `imie`,`nazwisko` FROM `sportowiec` WHERE id = 1;
+
+kwe3:
+    SELECT AVG(wynik) FROM `wyniki` WHERE `sportowiec_id` = 1;
+
+kwe4: 
+    SELECT `wynik` FROM `wyniki` ORDER BY wynik DESC LIMIT 1;
